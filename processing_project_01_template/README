@@ -1,0 +1,30 @@
+# Notes
+    - This is a template code for Project_01.
+    - You MAY or MAY NOT use it
+        - The places marked with "" are not the only places where you may need to write code
+    - However, please follow the submission instructions found in the overleaf link for Project_01.
+        - eg: the format of input and output files
+        - the behavior of the program
+
+# How to run
+    - Open the processing IDE and 'open' the file 'processing_project_01_template.pde'
+    - Press the 'Play' button
+    - Select the 'input.txt' file
+    - After done, please check 'output.txt'
+
+
+# This template includes:
+    - sample input.txt and output.txt files
+    - A way to select an input.txt file from a pop-up windowDisplays text (eg: animation mode on/off, current input mode: eg: 'i', 'r', 'c')
+    - How to write logs to an output.txt file
+    - Draws a 2d gridDraws some horizontal lines for example
+    - Shows usage of colorShows a blinking sqaure
+    - Registers mouse clicksDraws a temporary circle around a mouse click
+    - Some interface functions (eg: quadTree.insert(), quadTree.report(), quadTree.count() etc.)
+    - A sample snapshot of the expected quad tree (file: "diagram_for_input.png")
+    - Does not contain full solutionIs hosted on github at this link ()
+
+
+# Comment:
+    - If there is any question or concern or bug, please contact moyeen@arizona.edu.
+    - You are also welcome to stop by during office hours and I will be happy to be of any assitance!

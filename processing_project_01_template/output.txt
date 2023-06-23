@@ -1,0 +1,11 @@
+% the above int is h
+%
+% this is just a comment
+% assumption: rectangles are always given as bottomLeftPoint first and then topRightPoint
+%
+%
+% r 10 20 20 10
+RangeReporting was called with parameters 10 20 20 10
+%
+% c 10 20 20 10
+RangeCouting was called with parameters 10 20 20 10

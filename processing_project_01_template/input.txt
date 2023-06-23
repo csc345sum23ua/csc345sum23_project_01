@@ -1,0 +1,25 @@
+5
+% the above int is h
+%
+% this is just a comment
+% assumption: rectangles are always given as bottomLeftPoint first and then topRightPoint
+%
+i 4 8 5
+i 6 10 6
+i 7 20 8
+i 6 7 9
+i 8 9 9
+i 4 8 10
+i 15 20 10
+i 18 24 12
+i 16 26 14
+i 12 18 15
+i 20 28 24
+i 20 28 26
+i 4 8 30
+%
+% r 10 20 20 10
+r 10 20 20 10
+%
+% c 10 20 20 10
+c 10 20 20 10
