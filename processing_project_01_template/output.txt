@@ -6,6 +6,10 @@
 %
 % r 10 20 20 10
 RangeReporting was called with parameters 10 20 20 10
+reporting segment s6 whose coordinates are 15 20 10. It intersects the query region 10 20 20 10
+reporting segment s7 whose coordinates are 18 24 12. It intersects the query region 10 20 20 10
+reporting segment s8 whose coordinates are 16 26 14. It intersects the query region 10 20 20 10
 %
 % c 10 20 20 10
 RangeCouting was called with parameters 10 20 20 10
+We found 6 endpoints of segments inside the query region
